@@ -36,4 +36,6 @@ This project is an interactive Sales Performance Dashboard built in Microsoft Ex
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](C:\Study\Data Analysis\Projects\Excel-Sales-Performance-Dashboard/Dashboard.png)
+## Dashboard Preview
+
+![Dashboard](Dashboard.png)
